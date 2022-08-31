@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @AlexeyTarasovv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlexeyTarasovv/AlexeyTarasovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @AlexeyTarasovv<br/>
+  I'm a manual QA Engineer who is striving to master AQA field. On my way I am studying JAVA, Maven, Selenium, TestNG, REST assured and architectural patterns: OOP, POM, Factories, Reporting, DDT, BDD. And hope to cover more!<br/>
+  Currently I have got two projects regarding testing frameworks: **myTestFramework** and **restAssuredProject**. And one practice project regarding JAVA core. Have a look! ✨
